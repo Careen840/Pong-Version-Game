@@ -47,12 +47,10 @@ The game concludes upon the completion of a predetermined number of rounds, with
 
 ## Game Controls
 Players control their paddles using designated keys:
-
 	Player 1 (Left Paddle):
 -	Vertical Movement: 'w' (up) and 's' (down) keys
 -	Horizontal Movement: 'i' (left) and 'l' (right) keys
-
-
+  
 	Player 2 (Right Paddle):
 - 	Vertical Movement: 'o' (up) and 'k' (down) keys
 - 	Horizontal Movement: 'a' (left) and 'd' (right) keys
