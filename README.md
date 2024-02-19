@@ -53,9 +53,9 @@ Players control their paddles using designated keys:
 -	Horizontal Movement: 'i' (left) and 'l' (right) keys
 
 
-    Player 2 (Right Paddle):
-- Vertical Movement: 'o' (up) and 'k' (down) keys
-- Horizontal Movement: 'a' (left) and 'd' (right) keys
+	Player 2 (Right Paddle):
+- 	Vertical Movement: 'o' (up) and 'k' (down) keys
+- 	Horizontal Movement: 'a' (left) and 'd' (right) keys
 
 
 
